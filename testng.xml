@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Razorfish">
+  <test name="Form Page">
+    <classes>
+       <class name="com.pages.FormPage.java" />
+    </classes>
+  </test> 
+</suite>
